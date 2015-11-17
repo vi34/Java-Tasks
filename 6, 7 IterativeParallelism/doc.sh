@@ -1,0 +1,1 @@
+javadoc -linkoffline http://java.sun.com/javase/7/docs/api/ http://java.sun.com/javase/7/docs/api/ -private -d docs/ src/info/kgeorgiy/java/advanced/concurrent/*.java src/info/kgeorgiy/java/advanced/mapper/*.java src/ru/ifmo/ctddev/shatrov/parallelism/*.java

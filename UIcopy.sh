@@ -1,0 +1,1 @@
+java -classpath "UIFileCopy/out/production/UIFileCopy" ru.ifmo.ctddev.shatrov.uifilecopy.UIFileCopy $1 $2

@@ -1,0 +1,10 @@
+811c9dc5 /Volumes/Macintosh HD/Users/vi34/Documents/учеба/java/walk/src/empty.txt
+df11e22b /Volumes/Macintosh HD/Users/vi34/Documents/учеба/java/walk/src/input.txt
+811c9dc5 /Volumes/Macintosh HD/Users/vi34/Documents/учеба/java/walk/src/out.txt
+40cd8a80 /Volumes/Macintosh HD/Users/vi34/Documents/учеба/java/walk/src/ru/ifmo/ctddev/shatrov/.DS_Store
+b019e125 /Volumes/Macintosh HD/Users/vi34/Documents/учеба/java/walk/src/ru/ifmo/ctddev/shatrov/walk/.DS_Store
+6966294a /Volumes/Macintosh HD/Users/vi34/Documents/учеба/java/walk/src/ru/ifmo/ctddev/shatrov/walk/RecursiveWalk.java
+00000000 /Volumes/Macintosh HD/Users/vi34/Documents/учеба/java/walk/src/f.txt
+df11e22b /Volumes/Macintosh HD/Users/vi34/Documents/учеба/java/walk/src/input.txt
+811c9dc5 /Volumes/Macintosh HD/Users/vi34/Documents/учеба/java/walk/src/empty.txt
+00000000 

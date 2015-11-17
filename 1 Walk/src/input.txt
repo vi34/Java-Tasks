@@ -1,0 +1,5 @@
+/Volumes/Macintosh HD/Users/vi34/Documents/учеба/java/walk/src
+/Volumes/Macintosh HD/Users/vi34/Documents/учеба/java/walk/src/f.txt
+/Volumes/Macintosh HD/Users/vi34/Documents/учеба/java/walk/src/input.txt
+/Volumes/Macintosh HD/Users/vi34/Documents/учеба/java/walk/src/empty.txt
+

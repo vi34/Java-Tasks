@@ -1,0 +1,1 @@
+java -classpath "java-advanced-2015/artifacts/ParallelMapperTest.jar:java-advanced-2015/artifacts/*:java-advanced-2015/lib/*:IterativeParallelism/out/production/IterativeParallelism" info.kgeorgiy.java.advanced.mapper.Tester list ru.ifmo.ctddev.shatrov.parallelism.ParallelMapperImpl,ru.ifmo.ctddev.shatrov.parallelism.IterativeParallelism $1

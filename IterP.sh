@@ -1,0 +1,1 @@
+java -classpath "java-advanced-2015/artifacts/IterativeParallelismTest.jar:java-advanced-2015/artifacts/*:java-advanced-2015/lib/*:IterativeParallelism/out/production/IterativeParallelism" info.kgeorgiy.java.advanced.concurrent.Tester list ru.ifmo.ctddev.shatrov.parallelism.IterativeParallelism $1

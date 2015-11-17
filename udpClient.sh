@@ -1,0 +1,1 @@
+java -classpath "java-advanced-2015/artifacts/HelloUDPTest.jar:java-advanced-2015/artifacts/*:java-advanced-2015/lib/*:helloUDP/out/production/helloUDP" info.kgeorgiy.java.advanced.hello.Tester client ru.ifmo.ctddev.shatrov.helloudp.HelloUDPClient $1

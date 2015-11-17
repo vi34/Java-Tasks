@@ -1,0 +1,1 @@
+java -classpath "java-advanced-2015/artifacts/ImplementorTest.jar:java-advanced-2015/artifacts/*:java-advanced-2015/lib/*:Implementor/out/production/Implementor" info.kgeorgiy.java.advanced.implementor.Tester class ru.ifmo.ctddev.shatrov.implementor.Implementor $1

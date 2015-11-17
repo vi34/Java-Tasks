@@ -1,0 +1,1 @@
+java -classpath "java-advanced-2015/artifacts/WebCrawlerTest.jar:java-advanced-2015/artifacts/*:java-advanced-2015/lib/*:WebCrawler/out/production/WebCrawler" info.kgeorgiy.java.advanced.crawler.Tester hard ru.ifmo.ctddev.shatrov.webcrawler.WebCrawler $1
